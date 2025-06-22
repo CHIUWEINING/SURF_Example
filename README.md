@@ -23,7 +23,8 @@ A [tutorial video](https://www.youtube.com/watch?v=HobCyNgR9T0) is also availabl
   - `SettingsPanel.js`: Settings and controls (left panel)
   - `NetworkGraph.js`: Interactive network visualization (center)
   - `RelationInfoPanel.js`: Detailed relation information (right panel)
-
+- **insertdata_postgre.py**  
+  A Python script for inserting data into the PostgreSQL database. Use this script to populate your database with the required data before running the backend server.
 ---
 
 ## Getting Started
